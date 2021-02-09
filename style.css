@@ -1,0 +1,54 @@
+
+body{
+   background-image: linear-gradient(to left bottom, #323e3e, #4c5656, #676f6f, #838989, #a1a4a4);
+}
+
+#navbar-color{
+    background-color: #58a2df;
+}
+
+/* Align nav items to center */
+#nav-center{
+    text-align: center;
+}
+
+#navbar-title{
+    font-size: larger;
+    color: rgb(255, 255, 255);
+}
+
+.col-margin{
+    margin: 5% 5% 5% 5%;
+}
+
+
+.heading-h1{
+    color: white;
+    padding-top: 10px;
+}
+
+
+/*Column Background Colors */
+
+.color1{
+    color: white;
+    border-radius: 5px;
+    border: 2px solid honeydew;
+    background-image: linear-gradient(to left bottom, #ea4e4e, #e95554, #e85b5b, #e76161, #e66767);
+
+}
+
+.color2{
+    color: white;
+    border-radius: 5px;
+    border: 2px solid honeydew;
+    background-image: linear-gradient(to left bottom, #1aa926, #2db630, #3cc33a, #4bd144, #58de4e);
+}
+
+.color3 {
+    
+    color: white;
+    border-radius: 5px;
+    border: 2px solid honeydew;
+    background-image: linear-gradient(to left bottom, #c1b900, #bcb716, #b8b522, #b3b32b, #afb133);
+}
